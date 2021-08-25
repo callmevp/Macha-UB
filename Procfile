@@ -1,0 +1,1 @@
+machaub: bash startup.sh
