@@ -1,12 +1,12 @@
 # Copyright (c) 2021 CALLMEVP
-# Part of: Nexa-Userbot
+# Part of: Macha-Userbot
 import asyncio
 
 from pyrogram import idle
-from Macha import NEXAUB
-from nexa_userbot.modules import *
-from nexa_userbot.core.startup_checks import check_or_set_log_channel
-from nexa_userbot.core.nexaub_database.nexaub_db_conf import get_log_channel
+from Macha import MACHAUB
+from Macha-UB.modules import *
+from Macha-UB.core.startup_checks import check_or_set_log_channel
+from Macha-UB.core.machaub_database.machaub_db_conf import get_log_channel
 from config import Config
 
 
