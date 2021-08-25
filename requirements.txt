@@ -1,0 +1,15 @@
+pyrogram
+TgCrypto
+requests
+pillow
+numpy
+aiohttp
+beautifulsoup4
+fake_useragent
+gitpython
+heroku3
+git+https://github.com/callmevp/py-extract.git
+filesplit
+filetype
+motor
+dnspython
