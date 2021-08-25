@@ -5,4 +5,4 @@ from motor.motor_asyncio import AsyncIOMotorClient
 from config import Config
 
 mongodb = AsyncIOMotorClient(Config.MONGODB_URL)
-nexa_mongodb = mongodb["MACHAUB"]
+macha_mongodb = mongodb["MACHAUB"]
