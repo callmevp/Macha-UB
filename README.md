@@ -1,6 +1,6 @@
 
 
-[![callmevp/Macha-UB](https://img.shields.io/static/v1?label=Callmevp&message=Macha-UB-X&color=blue&logo=github)](https://github.com/callmevp/Macha-UB)
+[![callmevp/Macha-UB](https://img.shields.io/static/v1?label=Callmevp&message=Macha-UB&color=blue&logo=github)](https://github.com/callmevp/Macha-UB)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
 
 
@@ -10,7 +10,7 @@
 
  
 
-[![Macha-UB](https://telegra.ph/file/bc545d7ae432b0db5b1c0.jpgg)](https://t.me/MachaSupport)
+[![Macha-UB](https://telegra.ph/file/bc545d7ae432b0db5b1c0.jpg)](https://t.me/MachaSupport)
 
 
 <details><summary> <h1 align="center">🧾𝙸𝙽𝚂𝚃𝚁𝚄𝙲𝚃𝙸𝙾𝙽𝚂🧾</h1> </summary>
